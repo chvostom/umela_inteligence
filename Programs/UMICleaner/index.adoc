@@ -1,0 +1,17 @@
+# VYSAVAČ
+
+## Zadání
+
+Uvažujte svět vysavače, tj. mřížku, kde každé políčko je buď prázdné, nebo obsahuje smetí. Dále se v prostředí pohybuje automatický vysavač, který se vždy nachází na některém políčku mřížky. Vysavač se může pohybovat na sousední políčko nebo může vysávat, čehož výsledkem je prázdné políčko tam, kde se vysavač vyskytuje. Navrhněte algoritmus pro nalezení nejkratšího plánu(co do počtu akcí), který vyčistí celou mřížku a tento algoritmus implementujte.
+
+## Řešení
+
+Zdrojové kódy se nacházejí ve složce /src, plány pro otestování se nacházejí ve složce /resources. Stručný popis řešení je uveden ve videu UMICleanerVideo.mp4 a komentáře k algoritmům jsou přímo ve zdrojových kódech. 
+
+## Složky
+
+resources - obsahuje plány pro vyzkoušení funkcionalit programu
+src - obsahuje zdrojové kódy
+UMICleanerVideo.mp4 - video představující program
+
+

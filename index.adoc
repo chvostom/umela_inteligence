@@ -1,0 +1,6 @@
+# REPOZITÁŘ PRO ÚKOLY Z PŘEDMĚTU NI-UMI
+
+## Složky
+
+Programs - složka pro vypracované úlohy ze cvičení
+

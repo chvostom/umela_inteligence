@@ -1,0 +1,7 @@
+# SLOŽKA PRO VYPRACOVANÉ ÚLOHY ZE CVIČENÍ
+
+## Složky
+
+UMICleaner - vypracování úlohy týkající se vysavače z 1. cvičení
+
+
