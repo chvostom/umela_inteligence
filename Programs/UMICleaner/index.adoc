@@ -11,7 +11,9 @@ Zdrojové kódy se nacházejí ve složce /src, plány pro otestování se nach�
 ## Složky
 
 resources - obsahuje plány pro vyzkoušení funkcionalit programu
+
 src - obsahuje zdrojové kódy
+
 UMICleanerVideo.mp4 - video představující program
 
 
