@@ -1,0 +1,21 @@
+# Sudoku
+
+## Zadání
+
+Vyzkoušejte si algoritmy CSP na SUDOKU.
+
+## Řešení
+
+Zdrojové kódy se nacházejí ve složce Sudoku/src. Stručný popis řešení je uveden ve videu UMISudokuVideo.mp4 a komentáře k algoritmům jsou přímo ve zdrojových kódech. 
+
+## Složky a soubory
+
+src - obsahuje zdrojové kódy
+
+UMISudokuVideo.mp4 - video představující program
+
+SudokuVysledky.pdf - grafy s výsledky
+
+Zadani.png - zadání z Courses
+
+

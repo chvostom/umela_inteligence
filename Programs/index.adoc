@@ -4,4 +4,6 @@
 
 UMICleaner - vypracování úlohy týkající se vysavače z 1. cvičení
 
+UMISudoku - vypracování úlohy týkající se sudoku z 2. cvičení
+
 
