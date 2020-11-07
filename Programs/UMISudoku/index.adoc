@@ -10,7 +10,7 @@ Zdrojové kódy se nacházejí ve složce Sudoku/src. Stručný popis řešení 
 
 ## Složky a soubory
 
-src - obsahuje zdrojové kódy
+Sudoku/src - obsahuje zdrojové kódy
 
 UMISudokuVideo.mp4 - video představující program
 
